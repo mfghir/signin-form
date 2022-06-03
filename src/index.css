@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    min-height: 150vh;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    /* font-family: 'Noto Sans Arabic', sans-serif; */
+}
